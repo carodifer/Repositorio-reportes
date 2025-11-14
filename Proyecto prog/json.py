@@ -1,0 +1,5 @@
+{
+    "mascotas": [],
+    "dueños": [],
+    "citas": []
+}
